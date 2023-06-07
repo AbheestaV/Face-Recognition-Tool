@@ -1,2 +1,4 @@
 # Face-Recognition-Tool
-Unfinished.
+
+
+Dataset used: https://www.kaggle.com/adg1822/7-celebrity-images
